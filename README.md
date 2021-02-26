@@ -28,9 +28,9 @@ npm start //to run the app!
 
 - [x] 0.  Initializing project ✅
 
-- [0] 1. JSON Database implementation (MONGODB - Inthe future)
+- [ ] 1. JSON Database implementation (MONGODB - Inthe future)
 
-- [0] 2. Auth
-- [0] 3. Collecting user data
-- [0] 4. Bulk "message" sending
-- [0] 5. Other staff
+- [ ] 2. Auth
+- [ ] 3. Collecting user data
+- [ ] 4. Bulk "message" sending
+- [ ] 5. Other staff
