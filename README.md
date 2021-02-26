@@ -24,8 +24,9 @@ npm start //to run the app!
 
 🥳 Vala, You will see the webbrowser poppin up!
 
-#To do list
+## To do list
 
+0. Initializing project ✅
 1. JSON Database implementation (MONGODB - Inthe future)
 2. Auth
 3. Collecting user data
