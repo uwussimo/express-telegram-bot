@@ -1,5 +1,7 @@
 # Express + Telegram Bot
 
+![Banner](https://github.com/MrAbdurakhimov/express-telegram-bot/blob/master/public/img/Guthub.png?raw=true)
+
 In this application I want to implement admin palnel for "Telegram Store" hosted on heroku.
 
 ## Warning
