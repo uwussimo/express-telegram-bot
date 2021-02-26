@@ -6,7 +6,7 @@ In this application I want to implement admin palnel for "Telegram Store" hosted
 
 ## ⚠️ Warning
 
-<span style="color:red">-The Application is under construction, so taht don't worry if it doesnt work yet... Press "watch" button on the top to learn about further details... </span>
+> - The Application is under construction, so taht don't worry if it doesnt work yet... Press "watch" button on the top to learn about further details.
 
 ## 👨🏻‍💻 Installation
 
