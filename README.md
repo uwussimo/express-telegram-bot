@@ -26,7 +26,7 @@ npm start //to run the app!
 
 ## 📄 To do list
 
-- [x] 0.  Initializing project ✅
+- [x] 0.  Initializing project
 
 - [ ] 1. JSON Database implementation (MONGODB - Inthe future)
 
