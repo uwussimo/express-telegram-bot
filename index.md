@@ -26,11 +26,9 @@ npm start //to run the app!
 
 ## 📄 To do list
 
-- [x] Initializing project
-
-- [ ] JSON Database implementation (MONGODB - Inthe future)
-
-- [ ] Auth
-- [ ] Collecting user data
-- [ ] Bulk "message" sending
-- [ ] Other staff
+[x] | Initializing project
+[ ] | JSON Database implementation (MONGODB - Inthe future)
+[ ] | Auth
+[ ] | Collecting user data
+[ ] | Bulk "message" sending
+[ ] | Other staff
