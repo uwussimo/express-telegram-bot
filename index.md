@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# 🤖 Express + Telegram Bot
 
-You can use the [editor on GitHub](https://github.com/MrAbdurakhimov/express-telegram-bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Banner](https://github.com/MrAbdurakhimov/express-telegram-bot/blob/master/public/img/Guthub.png?raw=true)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this application I want to implement admin palnel for "Telegram Store" hosted on heroku.
 
-### Markdown
+## ⚠️ Warning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> The Application is under construction, so taht don't worry if it doesnt work yet... Press "watch" button on the top to learn about further details.
 
-```markdown
-Syntax highlighted code block
+## 👨🏻‍💻 Installation
 
-# Header 1
-## Header 2
-### Header 3
+This app requires [Node.js](https://nodejs.org/) v10+ to run.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+npm install //to install requiered packages
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+And then run:
 
-### Jekyll Themes
+```
+npm start //to run the app!
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrAbdurakhimov/express-telegram-bot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+🥳 Vala, You will see the webbrowser poppin up!
 
-### Support or Contact
+## 📄 To do list
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [x] 0.  Initializing project
+
+- [ ] 1. JSON Database implementation (MONGODB - Inthe future)
+
+- [ ] 2. Auth
+- [ ] 3. Collecting user data
+- [ ] 4. Bulk "message" sending
+- [ ] 5. Other staff
